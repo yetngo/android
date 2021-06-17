@@ -1,0 +1,2 @@
+rootProject.name = "LoginFB"
+include ':app'
